@@ -1,0 +1,13 @@
+C:\Git\ExtensionMethodDemoApp\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.exe
+C:\Git\ExtensionMethodDemoApp\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.deps.json
+C:\Git\ExtensionMethodDemoApp\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.runtimeconfig.json
+C:\Git\ExtensionMethodDemoApp\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.runtimeconfig.dev.json
+C:\Git\ExtensionMethodDemoApp\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.dll
+C:\Git\ExtensionMethodDemoApp\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.pdb
+C:\Git\ExtensionMethodDemoApp\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.csprojAssemblyReference.cache
+C:\Git\ExtensionMethodDemoApp\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.AssemblyInfoInputs.cache
+C:\Git\ExtensionMethodDemoApp\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.AssemblyInfo.cs
+C:\Git\ExtensionMethodDemoApp\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.csproj.CoreCompileInputs.cache
+C:\Git\ExtensionMethodDemoApp\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.dll
+C:\Git\ExtensionMethodDemoApp\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.pdb
+C:\Git\ExtensionMethodDemoApp\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.genruntimeconfig.cache
